@@ -1,0 +1,10 @@
+#Python==3.9.13 
+zmqRemoteApi
+torch==1.10.1 #CPU
+scipy
+opencv-python
+tqdm
+open3d
+scikit-image
+filterpy
+pandas
