@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# windows
+*.ini
+
+# output
+/output
+
+# vscode
+.vscode
+
+# support files not needed for now
+data/camera_cal
+/data/cell/*
+!data/cell/scene.ttt
+/data/parts
+/data/run_samples/sample2.mp4
+/data/scan
+/data/texture
+/src/archived.py
+/test/cal_test.py
+/src/yolov7_model
+
+
+
