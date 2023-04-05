@@ -148,6 +148,8 @@ data/camera_cal
 /src/archived.py
 /test/cal_test.py
 /src/yolov7_model
+/data/run_samples/sample1_trimmed.mp4
+/data/run_samples/sample2_trimmed.mp4
 
 
 
